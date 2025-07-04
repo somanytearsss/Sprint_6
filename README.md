@@ -1,6 +1,6 @@
 # Sprint_6 UI-test
 
-Автотесты для сайта Stellar Burgers (https://stellarburgers.nomoreparties.site/)
+Автотесты для сайта Stellar Burgers (https://qa-scooter.praktikum-services.ru/)
 
 <!--Установка-->
 
