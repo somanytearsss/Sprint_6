@@ -1,6 +1,7 @@
 import allure
 import pytest
-from src import OrderPage
+
+from src.pages.order_page import OrderPage
 from data import FirstSetOrderData
 
 
