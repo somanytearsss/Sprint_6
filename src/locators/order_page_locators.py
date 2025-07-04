@@ -1,6 +1,6 @@
 from selenium.webdriver.common.by import By
 
-class OrderPageLocators:
+class OrderPageLocators():
     FIELD_INPUT_NAME = By.CSS_SELECTOR, "input[placeholder='* Имя']"
     FIELD_INPUT_SURNAME = By.CSS_SELECTOR, "input[placeholder='* Фамилия']"
     FIELD_INPUT_ADDRESS = By.CSS_SELECTOR, "input[placeholder='* Адрес: куда привезти заказ']"
@@ -8,7 +8,7 @@ class OrderPageLocators:
     FIELD_INPUT_PHONE_NUMBER = By.CSS_SELECTOR, "input[placeholder='* Телефон: на него позвонит курьер']"
 
     FIELD_DATE_DELIVERY_SCOOTER = By.CSS_SELECTOR, "input[placeholder='* Когда привезти самокат']"
-    DATE_CHOOSE_DATE =By.XPATH, "//div[@aria-label='Choose четверг, 1-е мая 2025 г.']"
+    DATE_CHOOSE_DATE =By.XPATH, "//div[@aria-label='Choose четверг, 10-е июля 2025 г.']"
 
     FIELD_RENTAL_PERIOD = By.XPATH, "//div[@class='Dropdown-control']"
     RENTAL_PERIOD_TWO_DAYS = By.XPATH, "//div[@class='Dropdown-option' and text()='двое суток']"
