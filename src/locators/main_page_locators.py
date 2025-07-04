@@ -1,6 +1,6 @@
 from selenium.webdriver.common.by import By
 
-from src.locators.base_page_locator import BasePageLocators
+from src.locators.base_page_locators import BasePageLocators
 
 
 class QuestionsLocators(BasePageLocators):
