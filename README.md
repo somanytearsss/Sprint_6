@@ -1,4 +1,4 @@
-# Sprint_5 UI-test
+# Sprint_6 UI-test
 
 Автотесты для сайта Stellar Burgers (https://stellarburgers.nomoreparties.site/)
 
