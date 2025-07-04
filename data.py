@@ -11,6 +11,6 @@ class Answers:
 class FirstSetOrderData:
     NAME = 'Артем'
     SURNAME = 'Елизаров'
-    ADDRESS = 'Ростов-на-Дону, улица Тельмана 25'
+    ADDRESS = 'Москва, улица Короленко 25'
     PHONE_NUMBER = '+79012964567'
     COMMENT_TO_COURIER = 'Оставить заказ у двери'
