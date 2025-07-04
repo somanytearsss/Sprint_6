@@ -1,6 +1,6 @@
 import pytest
 from selenium import webdriver
-from src import URL
+from src.config import URL
 
 
 
