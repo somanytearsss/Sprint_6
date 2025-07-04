@@ -1,6 +1,6 @@
 import allure
 import src
-from src import MainPage
+from src.pages.main_page import MainPage
 
 class TestImportantQuestions:
 
