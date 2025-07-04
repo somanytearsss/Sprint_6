@@ -1,5 +1,4 @@
 import allure
-
 from src.locators.base_page_locators import BasePageLocators
 from src.pages.base_page import BasePage
 from src.locators.order_page_locators import OrderPageLocators
