@@ -1,11 +1,9 @@
 import allure
-
 from src.locators.base_page_locators import BasePageLocators
 from src.locators.order_page_locators import OrderPageLocators
 from src.pages.base_page import BasePage
 from src.locators.main_page_locators import QuestionsLocators
 from data import Answers
-
 
 class MainPage(BasePage):
 
