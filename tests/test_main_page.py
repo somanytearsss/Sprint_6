@@ -46,3 +46,4 @@ def test_check_text_important_questions(driver, test_case):
     # Используем Allure для названия теста
     with allure.step(test_case["title"]):
         main_page.verify_question_answer(question_locator, answer_locator, expected_answer)
+        
